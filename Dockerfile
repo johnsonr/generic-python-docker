@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3@sha256:4fe9e04554e42d202de57786e314908a22e845a5d5c34e44196f057db99653b1
 MAINTAINER Frank Bertsch <frank@mozilla.com>
 
 ARG APP_NAME=python-application
